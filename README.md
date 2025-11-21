@@ -1,7 +1,7 @@
       sudo apt-get update
 -------->For Sql-client
 
-      sudo apt-get install mysql-client
+      sudo apt-get install mysql-client -y
 -------->For python and related frameworks
 
       sudo apt-get install python3 -y
